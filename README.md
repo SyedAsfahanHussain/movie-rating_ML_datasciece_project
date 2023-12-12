@@ -1,1 +1,1 @@
-# movie-rating_ML_datasciece_project
+# movie-rating_ML_datascience_project
